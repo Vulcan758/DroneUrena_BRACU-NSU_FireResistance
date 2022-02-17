@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CODES/AndroidStudio/FireFly/app/src/main/res/layout/activity_home.xml" value="0.21388888888888888" />
+        <entry key="..\:/CODES/AndroidStudio/FireFly/app/src/main/res/layout/activity_main.xml" value="0.3489583333333333" />
+        <entry key="..\:/CODES/AndroidStudio/FireFly/app/src/main/res/layout/activity_map_view.xml" value="0.25" />
+        <entry key="..\:/CODES/AndroidStudio/FireFly/app/src/main/res/layout/activity_sign_up.xml" value="0.3489583333333333" />
+        <entry key="..\:/CODES/AndroidStudio/FireFly/app/src/main/res/layout/toolbar_title_layout.xml" value="0.3489583333333333" />
+        <entry key="..\:/FireFly/app/src/main/res/drawable/circle.xml" value="0.279" />
+        <entry key="..\:/FireFly/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/FireFly/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/FireFly/app/src/main/res/layout/activity_map_view.xml" value="0.264" />
+        <entry key="..\:/FireFly/app/src/main/res/layout/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/FireFly/app/src/main/res/layout/toolbar_title_layout.xml" value="0.38697916666666665" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/black_background.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/button.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/custom_button.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/custom_calender_icon.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/custom_email_icon.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/custom_icon_phone.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/custom_input.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/custom_lock_icon.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/custom_mail_icon.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/custom_person_icon.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.1" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.1" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15" />
+        <entry key="..\:/Firefly/app/src/main/res/drawable/white_background.xml" value="0.1" />
+        <entry key="..\:/Firefly/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Firefly/app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="..\:/Firefly/app/src/main/res/layout/activity_map_view.xml" value="0.2" />
+        <entry key="..\:/Firefly/app/src/main/res/layout/activity_sign_up.xml" value="0.165" />
+        <entry key="..\:/Firefly/app/src/main/res/layout/styles.xml" value="0.2" />
+        <entry key="..\:/Firefly/app/src/main/res/layout/toolbar_title_layout.xml" value="0.2" />
+        <entry key="..\:/Users/farha/Downloads/FireFly/app/src/main/res/layout/activity_home.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/farha/Downloads/FireFly/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/farha/Downloads/FireFly/app/src/main/res/layout/activity_map_view.xml" value="0.21388888888888888" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
